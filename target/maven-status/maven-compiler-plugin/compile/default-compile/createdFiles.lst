@@ -1,6 +1,0 @@
-core\HtmlPageParser.class
-core\MessageSender.class
-core\Scheduler.class
-main\Main.class
-model\Message.class
-core\Utils.class
